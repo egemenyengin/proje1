@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kiyafetstok",
+  "private_key_id": "5bb00f1ff518a8f71f097d6d566fe040617c6df9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDiVW4cXpHqGbO/\nmdiY01rmZHC1r19Ag92eS4WYBg7fNHsq6DJ5Al1SJmGTMXj3u61k5HTiVIBF6qSZ\nWnZyqMF3brt6mhUHEFEaD0EnQMPRiFZ6YxWzrwBpfMrIUNuNLZKiiS7Xd40e3JqV\nTr3MjX0TNsM5/n3aIonxqp3gs3dchMOKUtlfzg+kA2FJJgqNAE+M7jJ4oWE/xdN7\nlh/5zl764yQqWPXg4Buj89k0EdZUj8VlsNohgal85eOWZKj+UL9GyTJb2qgC0wS/\nTE6MzzquLcrY/60izTUCQ8rRP/fXxGFFi70jbpbB48ygKwvdoPj1H7iDCX1uJCNW\nCf42ofbFAgMBAAECggEAWls3s7yvbPFo2Jd/KHfMRMkZU/cYxEVAjubghRH6EvK9\nLyJ2r+eZQOgQsTYhcGks7mfkH80TTpY/svcx7VFgtyDuWKI1vdWuQwSPArAw3LAc\nsgxniA3X0MUgoXriQ4jLjvbMS/muzYDNd8jxLb3Yjnig1MC8Fn8Oafuuvpt3Deg0\ngtBbmAtal+MO9WUWd3Ej5g6RY+lXELsBeiF0aNGHevBxj4v/CczwkY4PRUL8rayS\nD5rGe1VPiFgCOAaJbFuZw3PGxhkyae2xYolt+uw5c64AZbJ1li2JlX+KjLdU386B\nhJR5TmqMAv8c7favIB4J42oKer9A41TIO3zVEaS0KwKBgQDytqr9S00r6u2emkFp\nSgLfJ11kyy6LBX8xgdSJ9CD2euTG090apEUpFL1KIekz88LcWafHnCPsVe/UhP7o\nDk5O1ujeR8HGTktHWdNXNQT0Oy2WEx+sTvIg98nBb9OcbLbxU95PslcUfcIs7ek7\nTazK/Aghj1uNfXhjeRnhXATxewKBgQDuuTgL+07/FBScv6dYZTIswjOvBcMothmB\nBkk8GUvQPeOyVQF6sZ/rW6WbNKMg6ovB0tnOj5BToh/tOP0LRHhcv/VI7h5ToZiP\nuXIrrCu08Wnon0as50vue3fjcWwbUVg1TI/fyTQscd0LSsxatB2+npwKTgxGPpvQ\niIzBEw2kvwKBgDDWZrOO6llS7TtDqLPJ66gBYL5+T8Aze/N3P0/+6n8OHWiQiuXo\nde4dOTVoe2czvlreQ29b0LKmXBq0JCKHdmRQxAyt/aSsbmNOBMOAbJ3EJpkTAgWG\n4RuXIGam3LqV+X23tXzt0q3R3Dd0K8D+ES3K5svx76cZvxas8HMzM99vAoGBAN7U\nuUJF5KkpH0xpgVV7sGgjJoc7A75erFPJgFa+7guFmaL+whC6+KGCvISxj4vMI4Ra\nwsCTNY87iD2wslLwKMG61MSssFY0Qun1mmK1pV6S8d8Xvarrg+8qBPCjENw3A/VM\ncAfeEftilYhS24nXEuS5vMHJtJ9lFaCDtY8Lr/KVAoGAOnNnFEwPQxyH7SrVPyxf\nQEj2pfCCgkLm9vwgITxX9cYHAANe8e623fON5WMTLNHxoeTxgRPSkBZPEuGeQC7c\nyvAZGTJ4b+is5tgMhDJSq5o+URpp/N9FpOSbByQvmWQ2o/AWf1f/OYxPc+AHPbZb\n+xt2aYPXgvm4UxBn7Yfe24Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartrobe@kiyafetstok.iam.gserviceaccount.com",
+  "client_id": "111077221475536704305",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartrobe%40kiyafetstok.iam.gserviceaccount.com"
+}
